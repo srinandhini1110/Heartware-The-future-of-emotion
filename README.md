@@ -1,2 +1,12 @@
-# Heartware-The-future-of-emotion
-Emotion-sensitive AI enables real-time emotion detection, enhancing areas like mental health and customer service. Challenges include emotional accuracy, cultural differences, and ethical concerns like privacy. Success depends on overcoming these to ensure safe, empathetic AI use.
+---
+title: Age Gender Emotion Prediction
+emoji: 🌖
+colorFrom: purple
+colorTo: red
+sdk: streamlit
+sdk_version: 1.32.2
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
